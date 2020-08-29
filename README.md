@@ -1,1 +1,2 @@
-# JamesJung.github.io
+안녕하세요.
+정재민의 깃허브 블로그 입니다. 
